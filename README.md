@@ -41,11 +41,6 @@ File handling (read/write data)
 Building menu-driven CLI applications
 Writing clean and structured code
 
-📌 Future Improvements
-
-Add GUI (Tkinter or Web app)
-Store data using database (SQLite)
-Add login system
 
 ⭐ Support
 
